@@ -1,3 +1,3 @@
 # Demo
 
-This repo is a demo project.
+This repository is a demo project.
