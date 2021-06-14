@@ -1,5 +1,3 @@
 # Demo
 
-
-
-this is demo project
+This repo has demo project and only one file
